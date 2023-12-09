@@ -918,3 +918,10 @@ Domain,Type,Sponsoring Organisation
 .zone,generic,"Outer Falls, LLC"
 .zuerich,generic,Kanton Zürich (Canton of Zurich)
 .zw,country-code,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+.team, generic, NULL
+.fun, generic, NULL
+.health, generic, NULL
+.app, generic, NULL
+.rival, generic, NULL
+.spankki, generic, NULL
+.aboutee, generic, NULL
